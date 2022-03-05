@@ -1,0 +1,164 @@
+
+body
+{
+
+}
+
+.logo 
+{
+    max-width: 60px;
+}
+
+.header
+{
+    
+}
+
+.menu-bar
+{
+    color: #989898;
+}
+
+.banner
+{
+background: url(../img/banner.jpeg)no-repeat;
+background-size: cover;
+height: 568px;
+}
+
+.banner-text h2
+{
+    color: #FFF;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 130px;
+}
+
+.banner-text h6
+{
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    margin-top: 17px;
+}
+
+.banner-btn
+{
+    margin: 110px auto;
+    display: block;
+    background: #99c50a;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.tsc-1-i-t img
+{
+    max-width: 65px;
+    margin: 68px auto;
+    display: block;
+}
+
+.tsc-1-i-t h2
+{
+    width: 504px;
+    text-align: center;
+    margin-left: 325px;
+    margin-bottom: 50px;
+}
+
+
+.tsc-p-1
+{
+    text-align: center;
+    width: 924px;
+    margin-left: 108px;
+    margin-bottom: 50px;
+}
+
+.tsc-p-2
+{
+    text-align: center;
+    width: 924px;
+    margin-left: 108px;
+    margin-bottom: 100px;
+}
+
+.tsc-s-1-t
+{
+    background-color: #e2f8ff;
+    height: 250px;
+    margin-left: -36px;
+}
+
+.tsc-s-1 img
+{
+    float: left;
+    width: 126px;
+    margin-left: 114px;
+    margin-top: 50px;
+}
+
+.tsc-s-1-t h4
+{
+    padding: 34px 0px;
+    
+}
+
+.tsc-s-1-t p
+{
+    width: 404px;
+    margin-left: 147px;
+}
+
+.tsc-1-st-btn
+{
+    margin: 20px auto;
+    display: block;
+    background: #26a6d1;
+    border: none;
+    padding: 11px 20px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.tsc-s-2-t
+{
+    background-color: #f5f9eb;
+    height: 250px;
+    margin-left: -36px;
+}
+
+.tsc-s-2-t h4
+{
+    padding: 34px 0px;
+    
+}
+
+.tsc-s-2-t p
+{
+    width: 404px;
+    margin-left: 147px;
+}
+
+.tsc-1-st-btn
+{
+    margin: 20px auto;
+    display: block;
+    background: #26a6d1;
+    border: none;
+    padding: 11px 20px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.footer h6
+{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
